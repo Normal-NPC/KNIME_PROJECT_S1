@@ -44,10 +44,25 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 
 # 🎯 Hasil data yang didapat:
 1. Line Plot (Show full and part time undergraduate in different state)
-<img width="998" height="729" alt="1" src="https://github.com/user-attachments/assets/15d5f690-cd72-4342-abb7-ccba9623fbd2" />
+<img width="998" height="729" alt="1" src="https://github.com/user-attachments/assets/81bfa89a-b0e8-4833-8eae-b0834678c23d" />
+
 2. Histogram (Show acceptance rate for each university)
-<img width="998" height="729" alt="2" src="https://github.com/user-attachments/assets/b3a74a7f-e903-4a0e-bd5e-57c9c58249f9" />
+<img width="998" height="729" alt="2" src="https://github.com/user-attachments/assets/9332ccca-260b-49ff-9d97-5bf1568bb33d" />
+
 3. Bar Chart (Show total cost (in and out) of each State)
-<img width="998" height="729" alt="3" src="https://github.com/user-attachments/assets/8ac0629f-cbc4-4a7c-b6d0-285cec8d0038" />
+<img width="998" height="729" alt="3" src="https://github.com/user-attachments/assets/431b7680-f19f-4b51-a374-de6634dcf71c" />
+
 4. Box Plot (Show total cost (in and out) for both college type (public and private))
-<img width="998" height="729" alt="4" src="https://github.com/user-attachments/assets/5fca47b4-4516-4cb6-8686-daa865025a11" />
+<img width="998" height="729" alt="4" src="https://github.com/user-attachments/assets/bc803350-415f-486d-9013-16e158dc3762" />
+
+5. Scatter Plot (Show comparison between enrolled rate and graduation rate)
+<img width="998" height="729" alt="5" src="https://github.com/user-attachments/assets/b43a85b7-ff78-4087-b1c4-371b51a4784e" />
+
+6. Scatter Plot (Show comparison between graduation rate and top 10% new student)
+<img width="998" height="729" alt="6" src="https://github.com/user-attachments/assets/363be777-64c1-4499-9a19-c753ea6e0c6f" />
+
+7. Scatter Plot (Show comparison between acceptance rate and top 25% new student)
+<img width="998" height="729" alt="7" src="https://github.com/user-attachments/assets/84b4dd39-a92a-4471-8bf6-43006898f958" />
+
+8. Scatter Plot (Show comparison between student faculty ratio and graduation rate)
+<img width="998" height="729" alt="8" src="https://github.com/user-attachments/assets/794e71c8-083a-4f35-b5d6-11cfd3bf6be4" />
