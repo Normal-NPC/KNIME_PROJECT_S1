@@ -40,3 +40,7 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 ### 8️⃣ Row Filter
 - 💭 **Fungsi:** Menyaring baris data (*row*) yang memenuhi kriteria tertentu.
 - 💡 **Penjelasan:** Digunakan untuk memfilter `Student-Faculty Ratio` yang kurang atau sama dengan 40
+
+
+# 🎯 Hasil data yang didapat:
+<img width="1001" height="728" alt="image" src="https://github.com/user-attachments/assets/70f07813-6ada-44a6-84f3-5f29c6fdf25f" />
