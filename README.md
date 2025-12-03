@@ -70,5 +70,5 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 ## 👀 Insight
 - The highest acceptance rate across universities is approximately 80%.
 - The highest total in-state cost is found in CT.
-= Private colleges have the highest total costs compared to Public ones.
+- Private colleges have the highest total costs compared to Public ones.
 - The highest graduation rates are found in Private colleges.
