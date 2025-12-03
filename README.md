@@ -66,3 +66,9 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 
 8. Scatter Plot (Show comparison between student faculty ratio and graduation rate)
 <img width="998" height="729" alt="8" src="https://github.com/user-attachments/assets/794e71c8-083a-4f35-b5d6-11cfd3bf6be4" />
+
+## 👀 Insight
+- The highest acceptance rate across universities is approximately 80%.
+- The highest total in-state cost is found in CT.
+= Private colleges have the highest total costs compared to Public ones.
+- The highest graduation rates are found in Private colleges.
