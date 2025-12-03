@@ -49,8 +49,8 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 2. Histogram (Show acceptance rate for each university)
 <img width="998" height="729" alt="2" src="https://github.com/user-attachments/assets/9332ccca-260b-49ff-9d97-5bf1568bb33d" />
 
-3. Bar Chart (Show total cost (in and out) of each State)
-<img width="998" height="729" alt="3" src="https://github.com/user-attachments/assets/431b7680-f19f-4b51-a374-de6634dcf71c" />
+3. Bar Chart (Show total cost of each State)
+<img width="998" height="729" alt="3" src="https://github.com/user-attachments/assets/bcc30a5f-6c73-4e5a-b4b1-aff9536d5c56" />
 
 4. Box Plot (Show total cost (in and out) for both college type (public and private))
 <img width="998" height="729" alt="4" src="https://github.com/user-attachments/assets/bc803350-415f-486d-9013-16e158dc3762" />
