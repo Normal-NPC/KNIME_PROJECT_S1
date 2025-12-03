@@ -39,4 +39,4 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 
 ### 8️⃣ Row Filter
 - 💭 **Fungsi:** Menyaring baris data (*row*) yang memenuhi kriteria tertentu.
-- 💡 **Penjelasan:** Digunakan untuk memfilter universitas berdasarkan rasio mahasiswa dan fakultas (*Student-Faculty Ratio*), misalnya hanya menampilkan universitas dengan rasio ~40.
+- 💡 **Penjelasan:** Digunakan untuk memfilter `Student-Faculty Ratio` yang kurang atau sama dengan 40
