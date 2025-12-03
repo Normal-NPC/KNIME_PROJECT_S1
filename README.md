@@ -43,4 +43,11 @@ Hari ini, saya memodifikasi dataset yang berisi data universitas. Tujuan dari an
 
 
 # 🎯 Hasil data yang didapat:
-<img width="1001" height="728" alt="image" src="https://github.com/user-attachments/assets/70f07813-6ada-44a6-84f3-5f29c6fdf25f" />
+1. Line Plot (Show full and part time undergraduate in different state)
+<img width="998" height="729" alt="1" src="https://github.com/user-attachments/assets/15d5f690-cd72-4342-abb7-ccba9623fbd2" />
+2. Histogram (Show acceptance rate for each university)
+<img width="998" height="729" alt="2" src="https://github.com/user-attachments/assets/b3a74a7f-e903-4a0e-bd5e-57c9c58249f9" />
+3. Bar Chart (Show total cost (in and out) of each State)
+<img width="998" height="729" alt="3" src="https://github.com/user-attachments/assets/8ac0629f-cbc4-4a7c-b6d0-285cec8d0038" />
+4. Box Plot (Show total cost (in and out) for both college type (public and private))
+<img width="998" height="729" alt="4" src="https://github.com/user-attachments/assets/5fca47b4-4516-4cb6-8686-daa865025a11" />
